@@ -12,6 +12,7 @@ public class Demo {
 	sweets.add(sw2);
 	sweets.add(sw3);
 
+	
 	System.out.println(sweets.getSweetsWeight());
 	
 	System.out.println(sweets.getSweetBySugar(10, 20));
