@@ -15,7 +15,7 @@ public class Sweets {
 		list.add(s);
 	}
 	
-	
+	  
 	public void remove(Sweet s) {
 		list.remove(s);
 	}
