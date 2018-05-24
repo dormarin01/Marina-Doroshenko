@@ -1,5 +1,5 @@
 package sweets;
-
+  
 public class Demo {
 	public static void main(String [] args) {
 	
@@ -11,6 +11,7 @@ public class Demo {
 	sweets.add(sw1);
 	sweets.add(sw2);
 	sweets.add(sw3);
+	
 
 	
 	System.out.println(sweets.getSweetsWeight());
