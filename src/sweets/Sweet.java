@@ -1,4 +1,4 @@
-package sweets;
+package sweets; 
 
 public class Sweet {
 	private String name;
